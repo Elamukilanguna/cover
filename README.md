@@ -149,7 +149,8 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![Alt text](<screen shot book.jpg>)
+![screen shot book](https://github.com/Elamukilanguna/cover/assets/144870462/8cbdb28d-41a3-4c09-b707-3510d21fd2b4)
+
 
 
 ## RESULT:
